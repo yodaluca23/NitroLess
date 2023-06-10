@@ -23,6 +23,10 @@
   color: RGB(55,200,255);
 }
 
+.premiumIcon-3ZB6PS{
+  display: none;
+}
+
 /* Hide Nitro message bar button*/
 .da-buttons > button[aria-label="Send a gift"] {
     display: none;
