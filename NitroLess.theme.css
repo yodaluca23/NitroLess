@@ -23,11 +23,18 @@
   color: RGB(55,200,255);
 }
 
+/* Hide Banner Nitro Exclusive*/
 .premiumIcon-3ZB6PS{
   display: none;
 }
 
+/* Hide Banner Nitro Exclusive*/
 .textBadge-1fdDPJ base-3IDx3L eyebrow-132Xza baseShapeRound-3epLEv{
+  display: none;
+}
+
+/* Hide Banner Nitro Exclusive*/
+.premiumIconWrapper-32h0Ri{
   display: none;
 }
 
